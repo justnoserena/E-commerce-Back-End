@@ -6,15 +6,15 @@
   ---
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
+
   - [Questions](#questions)
 
   ## Installation
   ---
   
   ## Usage
-  ![Deployed Application video](https://drive.google.com/file/d/11ji0J1oDWUyFgtmAJA9CLMT_BaHngfyI/view)
-  [Application Link]()
+  [![Deployed Application video](https://drive.google.com/file/d/11ji0J1oDWUyFgtmAJA9CLMT_BaHngfyI/view)
+  [Application Link](https://github.com/justnoserena/E-commerce-Back-End)
 
   GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
@@ -28,12 +28,9 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
   
-  ## Credits
-  ---
-  [undefined]
   ## Questions
   ---
   Github Username: Justnoserena
-  GitHub Repository: [Repository Link]{}
+  GitHub Repository: [Repository Link]{https://github.com/justnoserena}
   Email: Justnoserena@gmail.com
 
